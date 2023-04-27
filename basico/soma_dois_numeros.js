@@ -1,3 +1,12 @@
+/*
+Função que insere uma matriz não vazia de inteiros distintos representando uma soma alvo:
+
+Se houver dois números na soma do array de entrada até a soma do alvo, 
+então a função os devolve em um array em qualquer ordem.
+
+Se não houver dois números para a soma do alvo,
+então a função retorna uma matriz vazia.
+*/
 function twoNumberSum(array, targetSum) {
     const numbersSeen = new Set(); // Inicializa um conjunto vazio
 
@@ -12,6 +21,4 @@ function twoNumberSum(array, targetSum) {
 
     return []; // Se não encontramos dois números cuja soma é igual à soma alvo, retorna uma matriz vazia
 }
-
-// Do not edit the line below.
 exports.twoNumberSum = twoNumberSum;
