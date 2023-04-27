@@ -1,4 +1,6 @@
 # Scripts para estudos e treinos
 - Básico:
-    - 1. [Soma de dois números](/basico/soma_dois_numeros.js)
-    - 2. [Validar subsequência](/basico/validar_subsequencia.js)
+    - . [Soma de dois números](/basico/soma_dois_numeros.js)
+    - . [Validar subsequência](/basico/validar_subsequencia.js)
+    - . [Matriz quadrada ordenada](/basico/matriz_quadrada_ordenada.java)
+    - . [Vencedor do torneio](/basico/vencedor_do_torneio.java)
