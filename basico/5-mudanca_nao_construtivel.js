@@ -16,7 +16,7 @@ Já que não há moedas disponíveis para formar qualquer quantia.
 */
 
 function nonConstructibleChange(coins) {
-    coins.sort((a, b) => a - b); // Ordena a matriz de moedas em ordem crescente
+    coins.sort((a, b) => a - b); // Ordena a matriz de moedas em ordem crescente 
   
     let currentChange = 0; // Inicializa um contador para a quantidade de troco que pode ser construído
   
