@@ -1,7 +1,6 @@
 # Algoritmos de estudos para consultas
 #### <div align="center">// estruturas de dados mais comuns || métodos populares de resoluções de problemas //</div>
 
-
 * 4 níveis de dificuldade
     - Básico
     - Intermediário
@@ -32,6 +31,8 @@
     - TypeScript
     - C++
     - Go
+
+- - -
 
 #### Java e Javascript
 - Básico: 
@@ -65,15 +66,21 @@
     - [Primeiro caractere único](/basico/28-primeiro_caractere_unico.java)
     - [Palavras espelhadas](/basico/29-palavras_espelhadas.js)
 
+- - -
+
 #### Kotlin e Swift
 - Intermediário:
     - [xxxx](/intermediario/X-xxx.kt)
     - [xxxx](/intermediario/X-xxx.swift)
 
+- - -
+
 #### Python e TypeScript
 - Avançado:
     - [xxxx](/avancado/X-xxx.py)
     - [xxxx](/avancado/X-xxx.ts)
+
+- - -
 
 #### Go e C++
 - Desafiador:
