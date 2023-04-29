@@ -45,7 +45,7 @@
     - [Somas de ramificação](/basico/7-soma_ramificacao.java)
     - [Profundidades dos nós](/basico/8-profundidade_nos.java)
     - [Avaliar árvore de expressão](/basico/9-arvore_expressao.js)
-    - [Pesquisa em profundidade](/basico/10-pesquisa_profundidade.js)
+    - [Busca em profundidade](/basico/10-busca_em_profundidade.js)
     - [Tempo mínimo de espera](/basico/11-tempo_minimo_espera.java)
     - [Fotos da aula](/basico/12-fotos_aula.java)
     - [Bicicleta para duas pessoas](/basico/13-bicicleta_tandem.js)
