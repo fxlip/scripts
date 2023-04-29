@@ -12,7 +12,6 @@ E um nó next apontando para o próximo nó da lista ou para none/null se for o 
 
 */
 
-// Esta é uma classe de entrada. Não edite.
 class LinkedList {
     constructor(value) {
       this.value = value;
