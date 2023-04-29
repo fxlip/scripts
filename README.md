@@ -47,7 +47,7 @@
     - [Avaliar árvore de expressão](/basico/9-arvore_expressao.js)
     - [Busca em profundidade](/basico/10-busca_em_profundidade.js)
     - [Tempo mínimo de espera](/basico/11-tempo_minimo_espera.java)
-    - [Fotos da aula](/basico/12-fotos_aula.java)
+    - [Fotos da classe](/basico/12-fotos_classe.java)
     - [Bicicleta para duas pessoas](/basico/13-bicicleta_tandem.js)
     - [Remover duplicatas da lista vinculada](/basico/14-remover_duplicata_lista_vinculada.js)
     - [Nó do meio](/basico/15-no_do_meio.java)
