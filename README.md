@@ -49,7 +49,7 @@
     - [Tempo mínimo de espera](/basico/11-tempo_minimo_espera.java)
     - [Fotos da classe](/basico/12-fotos_classe.java)
     - [Bicicleta para duas pessoas](/basico/13-bicicleta_tandem.js)
-    - [Remover duplicatas da lista vinculada](/basico/14-remover_duplicata_lista_vinculada.js)
+    - [Remover duplicadas de lista vinculada](/basico/14-remover_duplicadas_lista_vinculada.js)
     - [Nó do meio](/basico/15-no_do_meio.java)
     - [Enésimo número de Fibonacci](/basico/16-n-esimo_fibonacci.java)
     - [Soma do produto](/basico/17-soma_produto.js)
