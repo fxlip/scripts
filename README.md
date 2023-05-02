@@ -70,19 +70,19 @@
 
 #### Kotlin e Swift
 - Intermediário:
-    - [xxxx](/intermediario/X-xxx.kt)
-    - [xxxx](/intermediario/X-xxx.swift)
+    - [Soma de três números](/intermediario/01-soma_tres_numeros.kt)
+    - [Menor diferença](/intermediario/02-menor_diferenca.swift)
 
 - - -
 
 #### Python e TypeScript
 - Avançado:
-    - [xxxx](/avancado/X-xxx.py)
-    - [xxxx](/avancado/X-xxx.ts)
+    - [Soma de quatro números](/avancado/01-soma_quatro_numeros.py)
+    - [Classificação de subarray](/avancado/X-xxx.ts)
 
 - - -
 
 #### Go e C++
 - Desafiador:
-    - [xxxx](/desafiador/X-xxx.go)
-    - [xxxx](/desafiador/X-xxx.cpp)
+    - [Buscando por apartamento](/desafiador/01-busca_apartamento.go)
+    - [Organizando o calendário](/desafiador/02-calendario.cpp)
