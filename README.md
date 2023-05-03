@@ -78,7 +78,7 @@
 #### Python e TypeScript
 - Avançado:
     - [Soma de quatro números](/avancado/01-soma_quatro_numeros.py)
-    - [Classificação de subarray](/avancado/X-xxx.ts)
+    - [Classificação de subarray](/avancado/02-classificacao_subarray.ts)
 
 - - -
 
