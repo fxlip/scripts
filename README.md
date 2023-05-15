@@ -85,4 +85,4 @@
 #### Go e C++
 - Desafiador:
     - [Buscando por apartamento](/desafiador/01-busca_apartamento.go)
-    - [Organizando o calendário](/desafiador/02-calendario.cpp)
+    - [Organizando o calendário](/desafiador/02-reuniao.cpp)
