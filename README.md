@@ -86,6 +86,7 @@
     - [Maior intervalo](/avancado/03-maior_intervalo.py)
     - [Mínimas Recompensas](/avancado/04-minimas_recompensas.ts)
     - [Travessia em zigue-zague](/avancado/05-travessia_zigue-zague.py)
+    - [Contar Quadrados](/avancado/06-contar_quadrados.ts)
 
 - - -
 
