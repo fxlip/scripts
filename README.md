@@ -1,5 +1,5 @@
 # Algoritmos de estudos para consultas
-#### <div align="center">// estruturas de dados mais comuns || métodos populares de resoluções de problemas //</div>
+#### <div align="center">𝘦𝘴𝘵𝘳𝘶𝘵𝘶𝘳𝘢𝘴 𝘥𝘦 𝘥𝘢𝘥𝘰𝘴 𝘮𝘢𝘪𝘴 𝘤𝘰𝘮𝘶𝘯𝘴 𝘦 𝘮𝘦́𝘵𝘰𝘥𝘰𝘴 𝘱𝘰𝘱𝘶𝘭𝘢𝘳𝘦𝘴 𝘥𝘦 𝘳𝘦𝘴𝘰𝘭𝘶𝘤̧𝘰̃𝘦𝘴 𝘥𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘢𝘴</div>
 
 * 4 níveis de dificuldade
     - Básico
