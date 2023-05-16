@@ -85,6 +85,7 @@
     - [Classificação de subarray](/avancado/02-classificacao_subarray.ts)
     - [Maior intervalo](/avancado/03-maior_intervalo.py)
     - [Mínimas Recompensas](/avancado/04-minimas_recompensas.ts)
+    - [Travessia em zigue-zague](/avancado/05-travessia_zigue-zague.py)
 
 - - -
 
