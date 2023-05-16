@@ -73,6 +73,7 @@
     - [Soma de três números](/intermediario/01-soma_tres_numeros.kt)
     - [Menor diferença](/intermediario/02-menor_diferenca.swift)
     - [Movendo elementos para o final](/intermediario/03-mover_elementos_final.kt)
+    - [Array Monotônico](/intermediario/04-array_monotonico.swift)
 
 - - -
 
