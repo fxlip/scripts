@@ -74,7 +74,7 @@
     - [Menor diferença](/intermediario/02-menor_diferenca.swift)
     - [Movendo elementos para o final](/intermediario/03-mover_elementos_final.kt)
     - [Array Monotônico](/intermediario/04-array_monotonico.swift)
-    - [Travessia em espiral](/intermediario/04-travessia_espiral.kt)
+    - [Travessia em espiral](/intermediario/05-travessia_espiral.kt)
 
 - - -
 
