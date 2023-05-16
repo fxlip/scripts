@@ -84,6 +84,7 @@
     - [Soma de quatro números](/avancado/01-soma_quatro_numeros.py)
     - [Classificação de subarray](/avancado/02-classificacao_subarray.ts)
     - [Maior intervalo](/avancado/03-maior_intervalo.py)
+    - [Mínimas Recompensas](/avancado/03-minimas_recompensas.ts)
 
 - - -
 
