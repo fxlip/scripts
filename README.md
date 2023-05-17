@@ -78,6 +78,8 @@
     - [Pico mais longo](/intermediario/06-pico_mais_longo.swift)
     - [Matriz de produtos](/intermediario/07-matriz_produtos.kt)
     - [Primeiro valor duplicado](/intermediario/08-primeiro_valor_duplicado.swift)
+    - [Unir intervalos sobrepostos](/intermediario/09-unir_intervalos_sobrepostos.kt)
+    
 
 - - -
 
