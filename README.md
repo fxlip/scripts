@@ -76,7 +76,8 @@
     - [Array Monotônico](/intermediario/04-array_monotonico.swift)
     - [Travessia em espiral](/intermediario/05-travessia_espiral.kt)
     - [Pico mais longo](/intermediario/06-pico_mais_longo.swift)
-    - [Matriz de Produtos](/intermediario/07-matriz_produtos.kt)
+    - [Matriz de produtos](/intermediario/07-matriz_produtos.kt)
+    - [Primeiro valor duplicado](/intermediario/08-primeiro_valor_duplicado.swift)
 
 - - -
 
