@@ -79,6 +79,7 @@
     - [Matriz de produtos](/intermediario/07-matriz_produtos.kt)
     - [Primeiro valor duplicado](/intermediario/08-primeiro_valor_duplicado.swift)
     - [Unir intervalos sobrepostos](/intermediario/09-unir_intervalos_sobrepostos.kt)
+    - [Melhor assento](/intermediario/10-melhor_assento.swift)
     
 
 - - -
