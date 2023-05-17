@@ -81,6 +81,7 @@
     - [Unir intervalos sobrepostos](/intermediario/09-unir_intervalos_sobrepostos.kt)
     - [Melhor assento](/intermediario/10-melhor_assento.swift)
     - [Submatriz de soma zero](/intermediario/11-submatriz_soma_zero.kt)
+    - [Números ausentes](/intermediario/12-numeros_ausentes.swift)
     
 
 - - -
