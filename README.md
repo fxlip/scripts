@@ -83,7 +83,7 @@
     - [Submatriz de soma zero](/intermediario/11-submatriz_soma_zero.kt)
     - [Números ausentes](/intermediario/12-numeros_ausentes.swift)
     - [Construção de árvore de busca binária](/intermediario/13-bst.kt)
-    - [Validação de árvore de busca binária](/intermediario/12-validar_bst.swift)
+    - [Validação de árvore de busca binária](/intermediario/14-validar_bst.swift)
     
 
 - - -
