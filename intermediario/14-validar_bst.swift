@@ -1,33 +1,56 @@
 /*
 
-Input: lista não ordenada de números inteiros únicos nums no intervalo de [1, n], 
-        onde n representa o comprimento de nums + 2. 
-        Isso significa que dois números nesse intervalo estão faltando na lista.
+Função que recebe uma árvore de busca binária potencialmente inválida e retorna um booleano.
 
-Função que recebe uma essa lista e retorne uma nova lista com os dois números ausentes, ordenados numericamente.
+Cada nó da BST possui um valor inteiro, um nó filho esquerdo e um nó filho direito.
+
+Um nó é considerado um nó válido da BST somente se ele satisfizer a propriedade da BST: 
+    seu valor é estritamente maior que os valores de todos os nós à sua esquerda; 
+    sseu valor é menor ou igual aos valores de todos os nós à sua direita; 
+    e seus nós filhos são nós válidos da BST ou nulos.
+
+Uma BST é válida somente se todos os seus nós forem nós válidos da BST.
 
 */
 
 class Program {
-    func missingNumbers(_ nums: [Int]) -> [Int] {
-        // Encontrar o valor máximo na lista original
-        let n = nums.count + 2
-        
-        // Criar um conjunto para armazenar os números presentes na lista original
-        var numSet = Set(nums)
-        
-        // Criar um array para armazenar os números ausentes
-        var missingNums = [Int]()
-        
-        // Verificar cada número no intervalo de 1 a n
-        for num in 1...n {
-            // Se o número não estiver presente no conjunto, ele está ausente
-            if !numSet.contains(num) {
-                missingNums.append(num)
+    // Esta é uma classe de entrada. Não a edite.
+    class BST {
+        var value: Int?       // Valor do nó
+        var left: BST?        // Nó filho esquerdo
+        var right: BST?       // Nó filho direito
+
+        init(value: Int) {
+            self.value = value
+            left = nil
+            right = nil
+        }
+    }
+
+    // Função principal para validar a BST
+    func validateBst(tree: BST) -> Bool {
+        // Chamada ao método auxiliar para realizar a validação com os valores mínimos e máximos iniciais
+        return validateBstHelper(tree, minVal: Int.min, maxVal: Int.max)
+    }
+  
+    // Método auxiliar para validar a BST usando recursão
+    func validateBstHelper(_ tree: BST?, minVal: Int, maxVal: Int) -> Bool {
+        // Se chegarmos ao final da árvore (nó nulo), retorna verdadeiro
+        if tree == nil {
+            return true
+        }
+    
+        // Verifica o valor atual do nó
+        if let value = tree?.value {
+            // Se o valor estiver fora do intervalo válido, retorna falso
+            if value < minVal || value >= maxVal {
+                return false
             }
+        
+        // Chama recursivamente o método auxiliar para o filho esquerdo e o filho direito, ajustando os valores mínimos e máximos
+        return validateBstHelper(tree?.left, minVal: minVal, maxVal: value) && validateBstHelper(tree?.right, minVal: value, maxVal: maxVal)
         }
         
-        // Retornar os números ausentes, ordenados numericamente
-        return missingNums.sorted()
-    }
+    return false
+  }
 }
