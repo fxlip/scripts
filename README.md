@@ -84,6 +84,7 @@
     - [Números ausentes](/intermediario/12-numeros_ausentes.swift)
     - [Construção de árvore de busca binária](/intermediario/13-bst.kt)
     - [Validação de árvore de busca binária](/intermediario/14-validar_bst.swift)
+    - [Funções que percorrem árvore de busca binária](/intermediario/13-funcoes_bst.kt)
     
 
 - - -
