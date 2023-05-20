@@ -82,9 +82,10 @@
     - [Melhor assento](/intermediario/10-melhor_assento.swift)
     - [Submatriz de soma zero](/intermediario/11-submatriz_soma_zero.kt)
     - [Números ausentes](/intermediario/12-numeros_ausentes.swift)
-    - [Construção de árvore de busca binária](/intermediario/13-bst.kt)
-    - [Validação de árvore de busca binária](/intermediario/14-validar_bst.swift)
-    - [Funções que percorrem árvore de busca binária](/intermediario/15-funcoes_bst.kt)
+    - [Construção de uma árvore de busca binária](/intermediario/13-bst.kt)
+    - [Validação de uma árvore de busca binária](/intermediario/14-validar_bst.swift)
+    - [Funções que percorrem uma árvore de busca binária](/intermediario/15-funcoes_bst.kt)
+    - [Ponto mínimo de uma árvore de busca binária](/intermediario/16-bst_minimo.swift)
     
 
 - - -
